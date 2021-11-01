@@ -32,7 +32,7 @@ class HomeExerciseSwitchCase {
                 System.out.println("Sunday");
                 break;
             default:
-            	System.out.println("Ýnvalid Day ! ");
+            	System.out.println("Invalid Day ! ");
             
         }
     }
